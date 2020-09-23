@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+.port_header {
+  background-color: rgb(190, 7, 108);
+  text-align: center;
+  color: white;
+  padding: 40px;
+  font-weight: 900;
+  margin-top: auto;
+  font-family: 'Quicksand', sans-serif;
+}
+header {
+  display: block;
+}
+.body {
+  background-image: url("https://img.freepik.com/free-vector/vintage-ornamental-flowers-background_52683-28040.jpg?size=626&ext=jpg");
+  direction: rtl;
+}
+.about_me {
+  direction: ltr;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: "Droid Arabic Kufi", serif;
+ 
+  padding-top: 50px;
+  align-content: center;
+  font-family: 'El Messiri', sans-serif;
+
+  font-weight: 200;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: space-between;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 5px;
+}
